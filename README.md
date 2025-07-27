@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in: Writing general-purpose programs in C/C++ and the occasional spigot (Minecraft) plugin in Java
 
-- 🌱 I’m currently learning: C++, Java and Lua on the side
+- 🌱 I really ain't doin all that much
 
-- 📫 How to reach me: oscar.cusick@gmail.com
+- 📫 How to reach me: "bananagrease." on discord
 
 <!---
 Banana-Grease/Banana-Grease is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
